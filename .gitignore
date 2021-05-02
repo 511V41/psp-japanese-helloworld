@@ -1,0 +1,4 @@
+work_the_dial.elf
+*.o
+PARAM.SFO
+EBOOT.PBP
