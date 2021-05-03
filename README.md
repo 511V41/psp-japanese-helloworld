@@ -2,6 +2,10 @@
 
 [詳細](https://511v41.github.io/2021/05/02/psp)
 
+## How to play
+
+「play」というほどの物では無いですが、[リリースページ](https://github.com/511V41/psp-japanese-helloworld/releases/)からZIPファイルを取得して `PSP/GAME/` 内に展開してください。
+
 ## How to build
 
 私の書いた[記事](https://511v41.github.io/2021/04/30/psp)を参考に開発環境を構築してください。
