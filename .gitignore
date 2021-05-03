@@ -1,4 +1,5 @@
 *.elf
 *.o
+*.prx
 PARAM.SFO
 EBOOT.PBP
